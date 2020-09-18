@@ -18,6 +18,8 @@ Experience
 -----------
 Programming Languages 
 : ** JavaScript** Studying JavaScript on the course "RS School"
-
+Extra Section
+--------------
+I speak English at a basic level
 
 
