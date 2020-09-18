@@ -13,5 +13,11 @@ Education
 2013-2018
 
 :   **Specialist mining geological engineer**; Udmurt State University
+
+Experience
 -----------
+Programming Languages 
+: ** JavaScript** Studying JavaScript on the course "RS School"
+
+
 
