@@ -1,4 +1,4 @@
-Evgeny Tupitsyn
+#Evgeny Tupitsyn
 ===============
 
 ----------------------       -----------------------
@@ -7,18 +7,18 @@ Izhevsk                             +7-919-902-45-15
 Russia
 ----------------------       -----------------------
 
-Education
+##Education
 ---------
 
 2013-2018
 
 :   **Specialist mining geological engineer**; Udmurt State University
 
-Experience
+##Experience
 -----------
 Programming Languages 
 : ** JavaScript** Studying JavaScript on the course "RS School"
-Extra Section
+###Extra Section
 --------------
 I speak English at a basic level
 
