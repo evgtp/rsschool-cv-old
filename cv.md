@@ -1,4 +1,4 @@
-Evgeny Tupitsyn
+# Evgeny Tupitsyn
 ===============
 
 ----------------------       -----------------------
@@ -7,11 +7,12 @@ Izhevsk                             +7-919-902-45-15
 Russia
 ----------------------       -----------------------
 
-Education
+## Education
 ---------
+2020 
+
+:  **Learning from the book HTML & CSS 25 lessons for beginners
 
 2013-2018
 
 :   **Specialist mining geological engineer**; Udmurt State University
------------
-
