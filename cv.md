@@ -25,6 +25,7 @@ Programming Languages
 Created a website based on the book:
 
 '''
+
 <!doctype html>
 <html>
 	<head>
@@ -76,6 +77,7 @@ Created a website based on the book:
 	</footer>
 	</body>
 </html>
+	
   '''
 
 ###Extra Section
